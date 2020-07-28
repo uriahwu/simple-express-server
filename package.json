@@ -1,0 +1,15 @@
+{
+  "name": "simple-express-server",
+  "version": "1.0.0",
+  "description": "A simple Web server for testing",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "license": "MIT",
+  "author": "Uriah Wu",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
